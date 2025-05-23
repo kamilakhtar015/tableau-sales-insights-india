@@ -3,7 +3,7 @@ Sales dashboard for identifying declining patterns in hardware sales across Indi
 
 # 📊 Tableau Sales Insights: India Hardware Market
 
-This project analyzes declining sales trends for a hardware company based in India. Built using **Tableau** and supported by custom **SQL scripts**, it delivers actionable insights through a dynamic dashboard that automates manual reporting processes.
+This project analyzes declining sales trends for an Indian hardware company. Built using Tableau and supported by custom SQL scripts, it delivers actionable insights through a dynamic dashboard that automates manual reporting processes.
 
 ---
 
@@ -20,7 +20,7 @@ Unlock sales insights previously invisible to the sales team, enabling faster, d
 - IT Support
 
 ### 3. **End Result**
-An automated Tableau dashboard providing up-to-date sales insights to support decision-making and improve overall operational efficiency.
+An automated Tableau dashboard provides up-to-date sales insights to support decision-making and improve operational efficiency.
 
 ### 4. **Success Criteria**
 - Dashboard uncovers actionable sales order insights using current data  
@@ -55,10 +55,9 @@ An automated Tableau dashboard providing up-to-date sales insights to support de
 | `Sales_Insights.twbx`    | Tableau dashboard with all visualizations |
 | `data/create_sales_data.sql` | SQL script to generate and populate the `sales` database |
 | `problem_statement.md`   | Summary of business need, objectives, and solution framework |
-| `screenshots/` (optional) | Exported images of dashboard visuals (recommended for repo) |
+| `screenshots` | Exported images of dashboard visuals |
 
 ---
 
-## 📸 Preview (Optional)
-
-![alt text](Dashboard.jpg)
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/91bb2bdd-ddd9-4bd8-a767-bd2f9677bdcc)
