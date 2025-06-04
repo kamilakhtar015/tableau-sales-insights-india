@@ -5,7 +5,7 @@ Sales dashboard for identifying declining patterns in hardware sales across Indi
 
 This project analyzes declining sales trends for an Indian hardware company. Built using Tableau and supported by custom SQL scripts, it delivers actionable insights through a dynamic dashboard that automates manual reporting processes.
 
----
+--- 
 
 ## 🧭 AIMS Grid Framework
 
